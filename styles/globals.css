@@ -14,3 +14,13 @@ a {
 * {
   box-sizing: border-box;
 }
+
+.container{
+  color:white;
+  background:rgb(40,42,54);
+  font-size: 4em;
+  font-weight: 500;
+  min-height: 100vh;
+  display: grid;
+  place-items: center;
+};
